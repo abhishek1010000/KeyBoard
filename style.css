@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  #app {
+    text-align: center;
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+  }
+  
+  #keyboard-display {
+    font-size: 24px;
+    border: 2px solid #333;
+    padding: 20px;
+    width: 300px;
+    margin: 0 auto;
+    min-height: 100px;
+  }
+  
